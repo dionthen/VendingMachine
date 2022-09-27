@@ -1,0 +1,7 @@
+Ice Mountain::0.75::16
+Premium Coffee::2.75::19
+Coca Cola::1.30::17
+Milo::1.95::8
+Milk Tea::1.80::2
+Coffee::1.80::17
+Green Tea::1.25::18
